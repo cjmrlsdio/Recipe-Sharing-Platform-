@@ -2,52 +2,42 @@ Recipe Sharing Platform (Chef Savvy)
 
 INTRODUCTION 
 
-A "Recipe Sharing Platform" is an online service designed to connect culinary enthusiasts, home cooks, and professional chefs by enabling them to share, discover, and discuss recipes from around the world. These platforms provide a space where users can upload their favorite recipes, complete with detailed instructions, ingredient lists, and photos. Other users can browse these recipes, try them out, and leave feedback or ratings.
+Chef Savvy is an online recipe-sharing platform designed to support local cooks in Camarin. This platform aims to empower cafeteria owners, small-scale cooks, and aspiring chefs by providing them with a diverse collection of budget-friendly recipes tailored to local tastes and preferences. Chef Savvy will serve as a daily guide, helping cooks curate their menus and offer delicious, cost-effective meals that appeal to their customers.
 
-These platforms often include features such as search filters, allowing users to find recipes based on cuisine type, dietary preferences, cooking difficulty, and available ingredients. Many platforms also foster a sense of community by including forums, comment sections, or social networking features, where users can ask questions, offer tips, and share their cooking experiences.
+Target Audience:
 
-Project features and characteristics
+• Cafeteria Owners in Camarin: Providing inspiration and practical recipes to enhance their daily offerings.
+• Local Cooks: Offering daily menu ideas to keep their cooking fresh and appealing.
+• Aspiring Chefs: 
+Helping them refine their cooking skills with accessible, budget-friendly recipes.
+• Budget-Conscious Cooks: 
+Ensuring they have access to affordable recipe options that don't compromise on taste or quality.
 
-1. User Profiles:
+Chef Savvy is a valuable tool for those in the culinary field looking to create satisfying meals without stretching their budget, all while staying true to local flavors.
 
-Personal profiles where users can manage their uploaded recipes, saved favorites, and interaction history.
-Social features like following other users, commenting, and messaging.
+PROJECT FEATURES AND CHARACTERISTICS 
 
-2. Recipe Submission:
+Add Your Own Recipe: Users can submit and manage their own recipes with details including ingredients, instructions, and photos.
 
-Easy-to-use interface for uploading and submitting recipes with sections for ingredients, instructions, cooking time, and difficulty level.
-Options to add photos or videos showcasing the cooking process or final dish.
-Tags and categories to improve searchability (e.g., cuisine type, dietary restrictions, meal type).
+Recipe Search: Allows users to search for recipes by keywords, ingredients, or cuisine.
 
-3. Search and Filtering:
+Recipe Collections: Users can create and browse collections of recipes based on themes, occasions, or personal preferences.
 
-Advanced search functionality allowing users to filter recipes by cuisine, ingredients, dietary preferences (e.g., vegan, gluten-free), difficulty level, and cooking time.
-Keyword search for finding specific recipes or ingredients.
+Ingredients Lists: Each recipe includes a detailed list of ingredients required.
 
-4. Recipe Discovery:
+Step-by-Step Instructions: Recipes provide clear, sequential cooking instructions for ease of preparation.
 
-Featured or trending recipes highlighted on the homepage.
-Personalized recommendations based on user activity and preferences.
-Sections for seasonal recipes, meal planning ideas, and editor’s picks.
-
-5. Ratings and Reviews:
-
-Users can rate recipes and leave detailed reviews with tips or modifications.
-Aggregate rating system (e.g., star ratings) for quick assessment of recipe popularity and quality.
-
-6. Comment and Discussion:
-
-Comment sections under each recipe for users to ask questions, share tips, or discuss variations.
-Community forums or discussion boards for broader conversations on cooking techniques, ingredients, and trends.
-
-7. Shopping List Integration:
-
-Option to add ingredients from a recipe to a shopping list.
-Shopping list management, possibly with integration to online grocery stores for easy purchasing.
-
-8. User-Generated Collections:
-
-Ability to create and share collections or cookbooks of favorite recipes.
-Options to follow collections created by other users or popular chefs.
+Cooking Timers: Integrated timers help users manage cooking times for various steps of the recipe.
 
 PROJECT SCOPE
+
+The Recipe Sharing Platform will create a user-friendly website or app for sharing and discovering recipes. Features include recipe submission, search and filtering, user profiles, ratings and reviews, community forums, and meal planning tools. The project will not include e-commerce or advanced analytics. Deliverables are the functional platform and necessary documentation. The project will follow a timeline for design, development, and launch, with success measured by user adoption and engagement
+
+OUT OF SCOPE
+
+• E-commerce Integration: The platform will not include features for selling ingredients or cooking equipment.
+
+• Advanced Analytics: There will be no sophisticated data analysis or business intelligence tools.
+
+• Physical Events: The project will not involve organizing or managing physical cooking events or classes.
+
