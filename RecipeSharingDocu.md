@@ -6,12 +6,7 @@ Chef Savvy is an online recipe-sharing platform designed to support local cooks 
 
 Target Audience:
 
-• Cafeteria Owners in Camarin: Providing inspiration and practical recipes to enhance their daily offerings.
-• Local Cooks: Offering daily menu ideas to keep their cooking fresh and appealing.
-• Aspiring Chefs: 
-Helping them refine their cooking skills with accessible, budget-friendly recipes.
-• Budget-Conscious Cooks: 
-Ensuring they have access to affordable recipe options that don't compromise on taste or quality.
+• Cafeteria Owners in Camarin: Providing inspiration and practical recipes to enhance their daily offerings. Offering daily menu ideas to keep their cooking fresh and appealing.
 
 Chef Savvy is a valuable tool for those in the culinary field looking to create satisfying meals without stretching their budget, all while staying true to local flavors.
 
