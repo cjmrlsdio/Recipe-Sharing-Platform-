@@ -14,7 +14,7 @@ PROJECT FEATURES AND CHARACTERISTICS
 -Recipe submission
 -User profiles
 -Search and Filtering
-- Recipe Collections 
+-Recipe Collections 
 -Rating and reviews 
 -Community Forums
 
@@ -22,4 +22,15 @@ PROJECT SCOPE
 
 Both large and small cafeteria owners looking for affordable meal ideas to serve their customers. This system will use Html, CSS and Javascript.
 
+D. Work breakdown Structure
 
+E. Functional Requirements
+
+        1. User Requirements
+
+        2. Use case
+
+F. Database Architecture
+
+Data Dictionary
+ ERD
