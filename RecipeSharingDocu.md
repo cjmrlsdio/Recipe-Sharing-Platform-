@@ -2,7 +2,8 @@ Recipe Sharing Platform (Chef Savvy)
 
 INTRODUCTION 
 
-Chef Savvy is an online recipe-sharing platform designed to support local cooks in Camarin. This platform aims to empower cafeteria owners, small-scale cooks, and aspiring chefs by providing them with a diverse collection of budget-friendly recipes tailored to local tastes and preferences. Chef Savvy will serve as a daily guide, helping cooks curate their menus and offer delicious, cost-effective meals that appeal to their customers.
+Chef Savvy is an online recipe-sharing platform designed to support local cooks. This platform aims to empower cafeteria owners, small-scale cooks, and aspiring chefs by providing them with a diverse collection of budget-friendly recipes tailored to local tastes and preferences. Chef Savvy will serve as a daily guide, helping cooks curate their menus and offer delicious, cost-effective meals that appeal to their customers
+Along with providing simple access to affordable recipe ideas, local cooks of Camarin may share their own recipes, trade advice, and improve their culinary abilities in a collaborative setting created by Chef Savvy.
 
 Target Audience:
 
