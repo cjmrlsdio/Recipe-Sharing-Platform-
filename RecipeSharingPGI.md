@@ -1,7 +1,7 @@
 # Project General Information
 
-Group Name: GROUP NAME
-Project Title: SYSTEM NAME
+Group Name: Recipe Sharing Platform
+Project Title: Chef Savvy
 
 ## A. Problem Statement:
 A lot of cafeteria owners struggle to find budget-friendly, so they demand a helpful tool to keep their menus interesting and affordable. There is a gap for a platform that supports cafeteria owners, small-scale cooks, aspiring chefs, and budget-conscious cooks with user-friendly platform, easy accessible, high-quality recipes tailored to the local tastes.
