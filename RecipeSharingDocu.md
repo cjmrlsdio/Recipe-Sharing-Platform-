@@ -20,7 +20,7 @@ PROJECT FEATURES AND CHARACTERISTICS
 
 PROJECT SCOPE
 
-Both large and small cafeteria owners looking for affordable meal ideas to serve their customers. This system will use Html, CSS and Javascript.
+This project is targeted towards both large and small cafeteria owners who are seeking cost-effective meal ideas to better serve their customers. The system will be developed using Angular to ensure a robust, scalable, and user-friendly platform that meets the needs of cafeteria operators of all sizes.
 
 D. Work breakdown Structure
 
